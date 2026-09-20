@@ -40,7 +40,7 @@ Follow these steps to clone and run the project locally:
 For full details, please check the license.txt file in this repository.
 
 ### Contributors
-Pacifique Mutuyimana - Sole developer and owner.
+Pacifique Mutuyimana -  owner.
 
 ### Project link
 Repository: https://github.com/pacific2020/pacific.github.com
