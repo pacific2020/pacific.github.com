@@ -13,7 +13,7 @@ A responsive personal portfolio website built with HTML and Tailwind CSS, showca
 ## How to run this project
 
 This project is deployed and running live on GitHub Pages. You can access it directly via the link below:
-- **Live Demo:** [https://pacific2020.github.io/pacific/](https://pacific2020.github.io/pacific/)
+- **Live Demo:** [https://pacific2020.github.io/pacific/]
 
 ### Prerequisites
 To view or run this project locally, you only need:
