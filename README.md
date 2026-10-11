@@ -32,6 +32,7 @@ Follow these steps to clone and run the project locally:
    git clone [https://github.com/pacific2020/pacific.github.com.git](https://github.com/pacific2020/pacific.github.com.git)
    cd pacific.github.com
    then type code .
+   and after that you can edit the code
 
 
 ### License
